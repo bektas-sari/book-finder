@@ -68,5 +68,6 @@ Want to contribute? Follow these steps:
 
 ## 📩 Contact
 For questions or collaboration:
-📧 Email: **bektas.sari@gmail.com**  
-🐙 GitHub: [bektas-sari](https://github.com/bektas-sari)  
+**GitHub:** [bektas-sari](https://github.com/bektas-sari)
+**Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
+**LinkedIn:** [bektas-sari](https://www.linkedin.com/in/bektas-sari)
