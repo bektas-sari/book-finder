@@ -1,4 +1,4 @@
-# 📚 Book Finder
+# 📚 Book Finder (Flask APP)
 
 ![Book Finder](https://via.placeholder.com/1000x500?text=Book+Finder+Banner)
 
@@ -71,3 +71,5 @@ For questions or collaboration:
 **GitHub:** [bektas-sari](https://github.com/bektas-sari)
 **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
 **LinkedIn:** [bektas-sari](https://www.linkedin.com/in/bektas-sari)
+
+
