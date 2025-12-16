@@ -66,10 +66,14 @@ Want to contribute? Follow these steps:
 
 ---
 
-## 📩 Contact
-For questions or collaboration:
-**GitHub:** [bektas-sari](https://github.com/bektas-sari)
-**Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-**LinkedIn:** [bektas-sari](https://www.linkedin.com/in/bektas-sari)
+## 👤 Developer
 
+**Bektaş Sarı**<br>
+PhD in Advertising, AI + Creativity researcher<br>
+Flutter Developer & Software Educator<br>
+
+- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
+- **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
+- **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
 
